@@ -40,14 +40,6 @@ func onMessageCreate(s *discordgo.Session, m *discordgo.MessageCreate) {
 		return
 	}
 
-	// if len(splitedContent) != 2 {
-	// 	warningText, err := ojosama.Convert("コマンドが不正です！\n以下を参考にしてください！\n\n/ojosama 変換したいテキスト\n/ojosama --help\n\n", nil)
-	// 	if err != nil {
-	// 		panic(err)
-	// 	}
-	// 	s.ChannelMessageSend(m.ChannelID, warningText)
-	// 	return
-	// }
 	if splitedContent[0] == "/ojosama" {
 		if splitedContent[1] == "--help" {
 			s.ChannelMessageSend(m.ChannelID, GetHelp())
