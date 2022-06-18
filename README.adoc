@@ -6,14 +6,14 @@
 
 == 概要
 
-テキストを壱百満天原サロメお嬢様風に変換するlink:jiro4989[https://github.com/jiro4989]さんのライブラリ
+テキストを壱百満天原サロメお嬢様風に変換するlink:https://github.com/jiro4989[jiro4989]さんのライブラリ
 https://github.com/jiro4989/ojosama[ojosama] を使って作ったDiscordボットです。
 
 Go初心者なので、勉強のために作成してみました。
 
 == 使い方
 
-link:ここ[https://discord.com/oauth2/authorize?client_id=987713230086492170&scope=bot&permissions=0]から追加したいDiscordサーバーにボットを追加。
+link:https://discord.com/oauth2/authorize?client_id=987713230086492170&scope=bot&permissions=0[ここ]から追加したいDiscordサーバーにボットを追加。
 （非公開ボットのため50サーバーまでしか導入できません。）
 
 以下のコマンドを使用可能。
