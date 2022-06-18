@@ -14,7 +14,6 @@ Go初心者なので、勉強のために作成してみました。
 == 使い方
 
 link:https://discord.com/oauth2/authorize?client_id=987713230086492170&scope=bot&permissions=0[ここ]から追加したいDiscordサーバーにボットを追加。
-（非公開ボットのため50サーバーまでしか導入できません。）
 
 以下のコマンドを使用可能。
 
