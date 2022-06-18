@@ -1,0 +1,40 @@
+= ojosama-web
+:sectnums:
+:toc: left
+
+テキストを壱百満天原サロメお嬢様風の口調に変換するDiscordボットです。
+
+== 概要
+
+テキストを壱百満天原サロメお嬢様風に変換するlink:jiro4989[https://github.com/jiro4989]さんのライブラリ
+https://github.com/jiro4989/ojosama[ojosama] を使って作ったDiscordボットです。
+
+Go初心者なので、勉強のために作成してみました。
+
+== 使い方
+
+link:ここ[https://discord.com/oauth2/authorize?client_id=987713230086492170&scope=bot&permissions=0]から追加したいDiscordサーバーにボットを追加。
+（非公開ボットのため50サーバーまでしか導入できません。）
+
+以下のコマンドを使用可能。
+
+[source,bash]
+----
+/ojosama 変換したい文字列
+/ojosama --help
+----
+
+== 注意事項
+
+=== プログラムの使用について
+
+壱百満天原サロメお嬢様、及びその所属の にじさんじ や、
+その関係者、ファンコミュニティの方の迷惑にならないように使ってください。
+
+本プログラムは、にじさんじ所属の壱百満天原サロメお嬢様のキャラクターを題材にした二次創作の一つです。
+故に、本プログラムは以下二次創作ガイドラインに従います。
+
+* https://event.nijisanji.app/guidelines/[ANYCOLOR二次創作ガイドライン]
+
+本プログラムを使う場合も上記ガイドラインを守ってお使いください。
+
