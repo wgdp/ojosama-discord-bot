@@ -1,4 +1,4 @@
-= ojosama-web
+= ojosama-discord-bot
 :sectnums:
 :toc: left
 
