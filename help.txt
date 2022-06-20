@@ -1,8 +1,16 @@
-# Help
-
 これは、
 
 https://github.com/jiro4989/ojosama
 
 をDiscordボットとして利用できるようにしたものです！
 詳細は、本家ojosamaのREADMEを確認してください！
+
+[テキストを変換します！]
+```plainText
+/ojosama 変換したいテキストを貼り付け
+```
+[ヘルプを表示します！]
+```planinText
+/ojosama --help
+```
+
