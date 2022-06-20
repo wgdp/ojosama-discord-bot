@@ -4,7 +4,7 @@ go 1.18
 
 require (
 	github.com/bwmarrin/discordgo v0.25.0
-	github.com/jiro4989/ojosama v0.1.3
+	github.com/jiro4989/ojosama v0.2.0
 )
 
 require (

@@ -10,8 +10,8 @@ github.com/ikawaha/kagome-dict/ipa v1.0.4 h1:+vXHnhfgwNdm/DU4KrPaiRHO4zUht0w0iK4
 github.com/ikawaha/kagome-dict/ipa v1.0.4/go.mod h1:zpMcAFSLDYEq+UI3GnF3IcZE5a0rKB2J0rrKGY6HYW8=
 github.com/ikawaha/kagome/v2 v2.7.0 h1:8FSQwHKgDptbqpIPlLzYn1ekIAQwe2NJ6q6QfyXwlC4=
 github.com/ikawaha/kagome/v2 v2.7.0/go.mod h1:x7RC7TnFI5uOzxIPDcx9sJqV1vFE+3p+mJNcTVUGHjo=
-github.com/jiro4989/ojosama v0.1.3 h1:vTRlkOhiw+CxNtkhqs6fSxJIFheXmwTdnGBrOg/y8no=
-github.com/jiro4989/ojosama v0.1.3/go.mod h1:ne6hJJilyXXhmblmp7hBXZV9Xo7g2Xb0P4QprNuRzUs=
+github.com/jiro4989/ojosama v0.2.0 h1:CzrLemUZ3CeDwA5VPXgVLM6PhE4NUuPyBjOstDE9szs=
+github.com/jiro4989/ojosama v0.2.0/go.mod h1:cMk4wAlxi38xprQx8blgTBJlt5Fiya9lkFOPjJK6csA=
 github.com/pmezard/go-difflib v1.0.0 h1:4DBwDE0NGyQoBHbLQYPwSUPoCMWR5BEzIk/f1lZbAQM=
 github.com/stretchr/testify v1.7.2 h1:4jaiDzPyXQvSd7D0EjG45355tLlV3VOECpq10pLC+8s=
 golang.org/x/crypto v0.0.0-20210421170649-83a5a9bb288b h1:7mWr3k41Qtv8XlltBkDkl8LoP3mpSgBW8BUoxtEdbXg=
