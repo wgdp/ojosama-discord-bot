@@ -45,7 +45,7 @@ func onMessageCreate(s *discordgo.Session, m *discordgo.MessageCreate) {
 			s.ChannelMessageSend(m.ChannelID, GetHelp())
 			return
 		}
-		text, err := ojosama.Convert(strings.Join(splitedContent[:len(splitedContent)], " "), nil)
+		text, err := ojosama.Convert(splitedContent[1], nil)
 		if err != nil {
 			panic(err)
 		}
@@ -57,7 +57,7 @@ func onMessageCreate(s *discordgo.Session, m *discordgo.MessageCreate) {
 }
 
 func OjosamaErrorHandling(message string, err error) {
-	errText, err := ojosama.Convert(message + "\n以下エラーメッセージです！", nil)
+	errText, err := ojosama.Convert(message+"\n以下エラーメッセージです！", nil)
 	if err != nil {
 		panic(err)
 	}
@@ -87,7 +87,6 @@ func main() {
 	} else {
 		panic(err)
 	}
-
 
 	sc := make(chan os.Signal, 1)
 
